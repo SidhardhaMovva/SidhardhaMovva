@@ -14,4 +14,4 @@ I like building AI that has to hold up in the real world — an agent answering 
 
 Going deeper on multi-agent systems and real-time voice — how agents coordinate, hand off, and stay reliable when several of them work on the same problem at once.
 
-Open to AI engineering roles.
+Open to software engineering roles — happiest where AI and agentic systems are the product, and equally at home with the backend, full-stack, and cloud work around them.
