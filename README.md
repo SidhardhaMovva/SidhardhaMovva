@@ -2,7 +2,7 @@
 
 I build....
 
-Software where the hard problems are decisions, not syntax — what a system should do when it isn't sure of the answer, how it behaves when something it depends on breaks, and how you prove it's actually working. Models and frameworks change every few months; the judgment underneath them is the part that lasts.
+Software where the hard problems are decisions, not syntax, what a system should do when it isn't sure of the answer, how it behaves when something it depends on breaks, and how you prove it's actually working. Models and frameworks change every few months; the judgment underneath them is the part that lasts.
 
 ### How I build
 
@@ -12,6 +12,6 @@ Software where the hard problems are decisions, not syntax — what a system sho
 
 ### Right now
 
-Most of my time lately goes into learning by building — picking something I don't fully understand yet, making a small working version of it, and then figuring out why it breaks. It is a slow way to learn, but things tend to stay with me when I learn them that way.
+Most of my time lately goes into learning by building, picking something I don't fully understand yet, making a small working version of it, and then figuring out why it breaks. It is a slow way to learn, but things tend to stay with me when I learn them that way.
 
-Open to software engineering roles — happiest where AI and agentic systems are the product, and equally at home with the backend, full-stack, and cloud work around them.
+Open to software engineering roles, happiest where AI and agentic systems are the product, and equally at home with the backend, full-stack, and cloud work around them.
