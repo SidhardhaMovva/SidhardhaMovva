@@ -1,6 +1,6 @@
 # Sidhardha Movva
 
-Building AI agents and LLM applications.
+I build AI agents.
 
 I like building AI that has to hold up in the real world — an agent answering a clinic's phone calls, a retrieval pipeline whose quality you can actually measure, tools that help other agents work together instead of overwriting each other.
 
