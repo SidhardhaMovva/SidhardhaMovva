@@ -2,7 +2,7 @@
 
 I build....
 
-Mostly AI that has to hold up in the real world: an agent answering a clinic's phone calls, a retrieval pipeline whose quality you can actually measure, tools that let other agents work together instead of overwriting each other.
+Software where the hard problems are decisions, not syntax — what a system should do when it isn't sure of the answer, how it behaves when something it depends on breaks, and how you prove it's actually working. Models and frameworks change every few months; the judgment underneath them is the part that lasts.
 
 ### How I build
 
