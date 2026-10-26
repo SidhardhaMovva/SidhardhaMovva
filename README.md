@@ -6,12 +6,12 @@ Software where the hard problems are decisions, not syntax — what a system sho
 
 ### How I build
 
-- **Measure it, or it didn't happen.** An AI feature without an evaluation is a demo. Golden sets, regression checks, and quality gates come before new features.
-- **Design for the failure case.** Models time out, providers go down, retrieval comes back empty. Fallbacks, retries, and a clear degraded state are part of the design, not an afterthought.
-- **"I don't know" is a valid answer.** A system that abstains when the evidence is weak beats a confident hallucination every time — especially where someone is relying on the output.
+- **I check whether things actually work.** I keep a small set of examples I trust, run new versions against them, and pay attention when the results get worse instead of just different. If I can't measure it somehow, I don't really know if it works.
+- **I think about what happens when things fail.** A model call times out, a service goes down, a search comes back with nothing useful. I would rather decide what the software does in those moments while I am building it than leave it to chance.
+- **I would rather it say "I don't know."** When the information isn't there, I want the software to admit that and hand the problem to a person instead of making something up. That matters more to me the more someone is depending on the answer.
 
 ### Right now
 
-Going deeper on multi-agent systems and real-time voice — how agents coordinate, hand off, and stay reliable when several of them work on the same problem at once.
+Most of my time lately goes into learning by building — picking something I don't fully understand yet, making a small working version of it, and then figuring out why it breaks. It is a slow way to learn, but things tend to stay with me when I learn them that way.
 
 Open to software engineering roles — happiest where AI and agentic systems are the product, and equally at home with the backend, full-stack, and cloud work around them.
